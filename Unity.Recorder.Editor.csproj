@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1CE999ED-DA34-4504-F4B2-6258EB27C6D5}</ProjectGuid>
+    <ProjectGuid>{1BB8F821-60B2-5342-4E50-8CF8524A54A0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Recorder.Editor</AssemblyName>
@@ -120,8 +120,8 @@
     <Compile Include="Library\PackageCache\com.unity.recorder@4.0.3\Editor\Sources\Recorders\AOVRecorder\AOVRecorder.cs" />
     <Compile Include="Library\PackageCache\com.unity.recorder@4.0.3\Editor\Sources\SceneHook.cs" />
     <Compile Include="Library\PackageCache\com.unity.recorder@4.0.3\Editor\Sources\RecorderSettings.cs" />
-    <Compile Include="Library\PackageCache\com.unity.recorder@4.0.3\Editor\Sources\RecorderEditor.cs" />
     <Compile Include="Library\PackageCache\com.unity.recorder@4.0.3\Editor\Timeline\RecorderClip.cs" />
+    <Compile Include="Library\PackageCache\com.unity.recorder@4.0.3\Editor\Sources\RecorderEditor.cs" />
     <Compile Include="Library\PackageCache\com.unity.recorder@4.0.3\Editor\Sources\Recorders\AnimationRecorder\AnimationRecorderSettingsEditor.cs" />
     <Compile Include="Library\PackageCache\com.unity.recorder@4.0.3\Editor\Sources\Recorders\MovieRecorder\MovieRecorderSettings.cs" />
     <Compile Include="Library\PackageCache\com.unity.recorder@4.0.3\Editor\Sources\OutputResolutionPropertyDrawer.cs" />
@@ -132,11 +132,11 @@
     <Compile Include="Library\PackageCache\com.unity.recorder@4.0.3\Editor\Sources\Recorders\GIFRecorder\GIFRecorder.cs" />
     <Compile Include="Library\PackageCache\com.unity.recorder@4.0.3\Editor\Sources\InputSettingsSelector.cs" />
     <Compile Include="Library\PackageCache\com.unity.recorder@4.0.3\Editor\Sources\Recorders\_Inputs\GameViewSize.cs" />
-    <Compile Include="Library\PackageCache\com.unity.recorder@4.0.3\Editor\Sources\Recorders\_Inputs\Camera\CameraInputSettingsPropertyDrawer.cs" />
     <Compile Include="Library\PackageCache\com.unity.recorder@4.0.3\Editor\Sources\Recorders\_Inputs\Animation\AnimationInputSettings.cs" />
+    <Compile Include="Library\PackageCache\com.unity.recorder@4.0.3\Editor\Sources\Recorders\_Inputs\Camera\CameraInputSettingsPropertyDrawer.cs" />
     <Compile Include="Library\PackageCache\com.unity.recorder@4.0.3\Editor\Sources\Recorders\MovieRecorder\Encoder\CoreEncoderSettings.cs" />
-    <Compile Include="Library\PackageCache\com.unity.recorder@4.0.3\Editor\Sources\Recorders\ImageRecorder\ImageRecorderEditor.cs" />
     <Compile Include="Library\PackageCache\com.unity.recorder@4.0.3\Editor\Sources\Recorders\_Legacy\EXR\EXRRecorderSettingsEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.recorder@4.0.3\Editor\Sources\Recorders\ImageRecorder\ImageRecorderEditor.cs" />
     <Compile Include="Library\PackageCache\com.unity.recorder@4.0.3\Editor\GIF\GIFWrapper.cs" />
     <Compile Include="Library\PackageCache\com.unity.recorder@4.0.3\Editor\Sources\RecorderController.cs" />
     <Compile Include="Library\PackageCache\com.unity.recorder@4.0.3\Editor\Sources\Recorders\AudioRecorder\AudioRecorder.cs" />
@@ -1141,35 +1141,35 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Recorder.Base.csproj">
-      <Project>{A36C9195-0383-31D7-7033-9C719E860E77}</Project>
+      <Project>{33F3A122-C92E-3D9B-8CD9-2C9EB6B4DBD6}</Project>
       <Name>Unity.Recorder.Base</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Recorder.csproj">
-      <Project>{4173F9DF-913A-140C-8AEC-8838C2492024}</Project>
+      <Project>{9DC480C5-137A-7EE5-A575-C765E7C35ED7}</Project>
       <Name>Unity.Recorder</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Timeline.csproj">
-      <Project>{EAAF56E0-FF58-ECDB-1F97-6940764D1685}</Project>
+      <Project>{4C236800-2F85-57EE-FBF5-27793F0D5EDA}</Project>
       <Name>Unity.Timeline</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Timeline.Editor.csproj">
-      <Project>{734562DD-FD50-0B0E-F3B3-5CA9FD4F8783}</Project>
+      <Project>{1E84B2DF-A08A-A377-3396-33C89A29FA1D}</Project>
       <Name>Unity.Timeline.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{3B7581CB-4C5E-B56E-3A2B-3409FFFC8AA2}</Project>
+      <Project>{87B59932-9ED5-BB5B-4E05-A84C9915743C}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{0A821104-EA50-5127-4075-480ADFD4967E}</Project>
+      <Project>{9ACCF548-8322-FA5A-40CE-6B2A47605AC0}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{5FE0B99F-1B7A-81B4-9EA9-18D382E955F2}</Project>
+      <Project>{7B4A8A28-C549-21AC-4280-C8ED8376ACDE}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{BDA99C57-CB79-22A2-5DBE-6D218CA037C3}</Project>
+      <Project>{B8152288-D3E2-6015-5C38-D9C34CE7AD81}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>

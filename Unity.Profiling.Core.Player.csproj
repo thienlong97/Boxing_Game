@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{4BB844DD-831B-6D30-2890-EA398B61FA3D}</ProjectGuid>
+    <ProjectGuid>{95CBB975-1695-5260-156A-930CAAB36A79}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Profiling.Core</AssemblyName>
@@ -828,7 +828,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEngine.UI.Player.csproj">
-      <Project>{4BD3EEE6-E275-71FC-16B7-9172A4CFFA72}</Project>
+      <Project>{725B8395-FB0B-1FFA-B524-9713BE57D90D}</Project>
       <Name>UnityEngine.UI.Player</Name>
     </ProjectReference>
   </ItemGroup>

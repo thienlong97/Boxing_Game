@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{C1A89F6B-FE34-4069-FEE5-EC548B8A023B}</ProjectGuid>
+    <ProjectGuid>{6FD59C09-6A19-BD45-75B7-0FF4F3AE8461}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.AdaptivePerformance</AssemblyName>
@@ -100,8 +100,8 @@
     <Compile Include="Library\PackageCache\com.unity.adaptiveperformance@4.0.1\Runtime\Core\AdaptiverPerformanceLog.cs" />
     <Compile Include="Library\PackageCache\com.unity.adaptiveperformance@4.0.1\Runtime\Indexer\AdaptivePerformanceIndexer.cs" />
     <Compile Include="Library\PackageCache\com.unity.adaptiveperformance@4.0.1\Runtime\Scalers\AdaptiveViewDistance.cs" />
-    <Compile Include="Library\PackageCache\com.unity.adaptiveperformance@4.0.1\Runtime\Scalers\AdaptiveDecals.cs" />
     <Compile Include="Library\PackageCache\com.unity.adaptiveperformance@4.0.1\Runtime\VisualScript\OnLevelUnit.cs" />
+    <Compile Include="Library\PackageCache\com.unity.adaptiveperformance@4.0.1\Runtime\Scalers\AdaptiveDecals.cs" />
     <Compile Include="Library\PackageCache\com.unity.adaptiveperformance@4.0.1\Runtime\Scalers\AdaptiveShadowDistance.cs" />
     <Compile Include="Library\PackageCache\com.unity.adaptiveperformance@4.0.1\Runtime\VisualScript\GetThermalMetricUnit.cs" />
     <Compile Include="Library\PackageCache\com.unity.adaptiveperformance@4.0.1\Runtime\Scalers\AdaptiveLayerCulling.cs" />
@@ -1011,27 +1011,27 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Subsystem.Registration.csproj">
-      <Project>{A56D4AE5-41A1-00BE-38F6-F5C29E5538B1}</Project>
+      <Project>{84CDD12F-0A5E-34D8-8B96-622EC1F3E034}</Project>
       <Name>Unity.Subsystem.Registration</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Profiling.Core.csproj">
-      <Project>{D5C33E97-9083-ED38-630A-36429EC82CBD}</Project>
+      <Project>{B64F1325-AF77-FBF3-7E88-76EE0986E00B}</Project>
       <Name>Unity.Profiling.Core</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Core.csproj">
-      <Project>{6C417997-BF07-5CA7-7140-485CB0535284}</Project>
+      <Project>{C9E13F0D-5E69-9518-790E-1EB3258F25DF}</Project>
       <Name>Unity.VisualScripting.Core</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Flow.csproj">
-      <Project>{D087CE2D-1466-EC3D-4B05-90B41E448A2A}</Project>
+      <Project>{A83FD92A-5AE5-8D05-9B17-7C598CABCD53}</Project>
       <Name>Unity.VisualScripting.Flow</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{3B7581CB-4C5E-B56E-3A2B-3409FFFC8AA2}</Project>
+      <Project>{87B59932-9ED5-BB5B-4E05-A84C9915743C}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{0A821104-EA50-5127-4075-480ADFD4967E}</Project>
+      <Project>{9ACCF548-8322-FA5A-40CE-6B2A47605AC0}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>

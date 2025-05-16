@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{155665E0-B507-9868-B6B5-7A20F8E09A04}</ProjectGuid>
+    <ProjectGuid>{638F58B8-4BE1-049E-C4EC-9CD8BC69BAD2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Recorder.Base</AssemblyName>
@@ -821,7 +821,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEngine.UI.Player.csproj">
-      <Project>{4BD3EEE6-E275-71FC-16B7-9172A4CFFA72}</Project>
+      <Project>{725B8395-FB0B-1FFA-B524-9713BE57D90D}</Project>
       <Name>UnityEngine.UI.Player</Name>
     </ProjectReference>
   </ItemGroup>

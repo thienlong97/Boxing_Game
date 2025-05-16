@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{71B2919B-44E8-C2FC-E1B2-799617C572D1}</ProjectGuid>
+    <ProjectGuid>{1C9FFD83-21B2-6C62-31F7-6139A8CFF311}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
@@ -830,55 +830,55 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.AdaptivePerformance.Player.csproj">
-      <Project>{8DBB2078-A18D-8B42-CE70-B3E55D7A2FBB}</Project>
+      <Project>{704EF18B-E6D2-73C6-47D9-211C1389242E}</Project>
       <Name>Unity.AdaptivePerformance.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Recorder.Base.Player.csproj">
-      <Project>{155665E0-B507-9868-B6B5-7A20F8E09A04}</Project>
+      <Project>{638F58B8-4BE1-049E-C4EC-9CD8BC69BAD2}</Project>
       <Name>Unity.Recorder.Base.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Core.Player.csproj">
-      <Project>{459FD9A1-FA8D-103B-F23F-DD2F16734537}</Project>
+      <Project>{5F7E4430-0E5E-8B34-B996-63763134F6D8}</Project>
       <Name>Unity.VisualScripting.Core.Player</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.Player.csproj">
-      <Project>{4BD3EEE6-E275-71FC-16B7-9172A4CFFA72}</Project>
+      <Project>{725B8395-FB0B-1FFA-B524-9713BE57D90D}</Project>
       <Name>UnityEngine.UI.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Flow.Player.csproj">
-      <Project>{328CE02D-1D6C-BFA5-E2CD-BF381874EC16}</Project>
+      <Project>{FBD521D4-396B-B335-EB96-2373BF79E570}</Project>
       <Name>Unity.VisualScripting.Flow.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Timeline.Player.csproj">
-      <Project>{EAC6583C-888F-DB8D-1A60-BA56F67AD088}</Project>
+      <Project>{6E85DF67-AED0-78FA-1852-00460273453F}</Project>
       <Name>Unity.Timeline.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Subsystem.Registration.Player.csproj">
-      <Project>{255893F3-A80E-30AA-9965-753135211868}</Project>
+      <Project>{4E316F44-7A1E-4302-0F9F-F8CBEFBA8E61}</Project>
       <Name>Unity.Subsystem.Registration.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.TextMeshPro.Player.csproj">
-      <Project>{F533AA3B-3716-C289-4EA5-398C1E023F6B}</Project>
+      <Project>{471FEEC0-15DC-037F-23B6-1E1D7FBC98B2}</Project>
       <Name>Unity.TextMeshPro.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Recorder.Player.csproj">
-      <Project>{3D1F463E-AC71-96F3-1372-2862B36487FA}</Project>
+      <Project>{9E549997-DB8A-5781-2C40-00EBC21F6A1B}</Project>
       <Name>Unity.Recorder.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.State.Player.csproj">
-      <Project>{70AE5A83-8268-D1A7-9A6F-90B88CCC5044}</Project>
+      <Project>{F80060CB-101A-9BC2-426E-4E42C0046DA0}</Project>
       <Name>Unity.VisualScripting.State.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Notifications.Android.Player.csproj">
-      <Project>{819555A9-4378-4CF9-90BE-8265160709D4}</Project>
+      <Project>{F3B2D3D1-0AC0-FC08-2744-4C603C70D1A4}</Project>
       <Name>Unity.Notifications.Android.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Profiling.Core.Player.csproj">
-      <Project>{4BB844DD-831B-6D30-2890-EA398B61FA3D}</Project>
+      <Project>{95CBB975-1695-5260-156A-930CAAB36A79}</Project>
       <Name>Unity.Profiling.Core.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Notifications.Unified.Player.csproj">
-      <Project>{91E6F2CC-4954-D380-62DB-CFA52B3E3110}</Project>
+      <Project>{A1C91451-0A30-BA12-D966-380B4A34E828}</Project>
       <Name>Unity.Notifications.Unified.Player</Name>
     </ProjectReference>
   </ItemGroup>

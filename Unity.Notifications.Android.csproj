@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{C8E8EC78-648A-85BF-0259-9DBAC5669FAA}</ProjectGuid>
+    <ProjectGuid>{09EA8055-B851-6DB7-C2A5-A8FEB04A4E1B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Notifications.Android</AssemblyName>
@@ -961,11 +961,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{3B7581CB-4C5E-B56E-3A2B-3409FFFC8AA2}</Project>
+      <Project>{87B59932-9ED5-BB5B-4E05-A84C9915743C}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{0A821104-EA50-5127-4075-480ADFD4967E}</Project>
+      <Project>{9ACCF548-8322-FA5A-40CE-6B2A47605AC0}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>

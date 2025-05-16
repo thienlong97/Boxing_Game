@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{7CC0A817-D940-0A6C-8075-696675E62B89}</ProjectGuid>
+    <ProjectGuid>{8B37EADA-069C-A836-9FE0-9E3E1AD0AFDE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Notifications</AssemblyName>
@@ -999,27 +999,27 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Notifications.iOS.csproj">
-      <Project>{377CF297-E6D6-0916-9A22-8DDA3E384E1F}</Project>
+      <Project>{5C22BFA7-79C2-16AD-0E7D-EAFE485B5D42}</Project>
       <Name>Unity.Notifications.iOS</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Notifications.Android.csproj">
-      <Project>{C8E8EC78-648A-85BF-0259-9DBAC5669FAA}</Project>
+      <Project>{09EA8055-B851-6DB7-C2A5-A8FEB04A4E1B}</Project>
       <Name>Unity.Notifications.Android</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{3B7581CB-4C5E-B56E-3A2B-3409FFFC8AA2}</Project>
+      <Project>{87B59932-9ED5-BB5B-4E05-A84C9915743C}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{0A821104-EA50-5127-4075-480ADFD4967E}</Project>
+      <Project>{9ACCF548-8322-FA5A-40CE-6B2A47605AC0}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{5FE0B99F-1B7A-81B4-9EA9-18D382E955F2}</Project>
+      <Project>{7B4A8A28-C549-21AC-4280-C8ED8376ACDE}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{BDA99C57-CB79-22A2-5DBE-6D218CA037C3}</Project>
+      <Project>{B8152288-D3E2-6015-5C38-D9C34CE7AD81}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>

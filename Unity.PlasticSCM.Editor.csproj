@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{656D3A9E-A150-FD6D-A1BA-8CB8B0BF2988}</ProjectGuid>
+    <ProjectGuid>{30938DFF-9BD9-3299-92C1-E601A71FBE09}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.PlasticSCM.Editor</AssemblyName>
@@ -246,8 +246,8 @@
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.8.2\Editor\_Deprecated\WebApi\OrganizationCredentials.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.8.2\Editor\UI\DrawTextBlockWithLink.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.8.2\Editor\AssetMenu\AssetMenuItems.cs" />
-    <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.8.2\Editor\Views\Merge\Gluon\IncomingChangesTab.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.8.2\Editor\AssetsUtils\ProjectPath.cs" />
+    <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.8.2\Editor\Views\Merge\Gluon\IncomingChangesTab.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.8.2\Editor\AssetsUtils\SaveAssets.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.8.2\Editor\UI\DrawActionToolbar.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.8.2\Editor\Views\Merge\Developer\ChangeCategoryTreeViewItem.cs" />
@@ -391,8 +391,8 @@
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.8.2\Editor\Views\Branch\BranchesListHeaderState.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.8.2\Editor\Configuration\MissingEncryptionPasswordPromptHandler.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.8.2\Editor\UI\Tree\ListViewItemIds.cs" />
-    <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.8.2\Editor\ExternalLink.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.8.2\Editor\Views\History\HistoryListHeaderState.cs" />
+    <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.8.2\Editor\ExternalLink.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.8.2\Editor\Developer\UpdateReport\UpdateReportListHeaderState.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.8.2\Editor\Tool\IsExeVersion.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.8.2\Editor\Views\CreateWorkspace\Dialogs\CreateRepositoryDialog.cs" />
@@ -1319,19 +1319,19 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{3B7581CB-4C5E-B56E-3A2B-3409FFFC8AA2}</Project>
+      <Project>{87B59932-9ED5-BB5B-4E05-A84C9915743C}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{0A821104-EA50-5127-4075-480ADFD4967E}</Project>
+      <Project>{9ACCF548-8322-FA5A-40CE-6B2A47605AC0}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{5FE0B99F-1B7A-81B4-9EA9-18D382E955F2}</Project>
+      <Project>{7B4A8A28-C549-21AC-4280-C8ED8376ACDE}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{BDA99C57-CB79-22A2-5DBE-6D218CA037C3}</Project>
+      <Project>{B8152288-D3E2-6015-5C38-D9C34CE7AD81}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>
