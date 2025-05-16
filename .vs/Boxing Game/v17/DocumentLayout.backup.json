@@ -1,0 +1,550 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNITY\\Out_Sources\\Boxing Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41004950-0DCF-D04E-DD83-C37886C4776E}|Unity.AssetBundleBrowser.Editor.Tests.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\AssetBundles-Browser-master\\Tests\\Editor\\ABModelTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41004950-0DCF-D04E-DD83-C37886C4776E}|Unity.AssetBundleBrowser.Editor.Tests.csproj|solutionrelative:Assets\\AssetBundles-Browser-master\\Tests\\Editor\\ABModelTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|d:\\unity\\out_sources\\boxing game\\assets\\_game\\scripts\\game\\boxing\\fighter\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\game\\boxing\\fighter\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\_game\\scripts\\game\\boxing\\boxingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\game\\boxing\\boxingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\_game\\scripts\\game\\boxing\\fighter\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\game\\boxing\\fighter\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\_game\\scripts\\core\\managers\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\core\\managers\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\_game\\scripts\\core\\managers\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\core\\managers\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\_game\\scripts\\game\\match3\\touchhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\game\\match3\\touchhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\_game\\scripts\\game\\boxing\\fighter\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\game\\boxing\\fighter\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\_game\\scripts\\effect\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\effect\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\_game\\scripts\\game\\boxing\\fighter\\player\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\game\\boxing\\fighter\\player\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\aniinstancing\\scripts\\animationinstancingmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\aniinstancing\\scripts\\animationinstancingmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\aniinstancing\\scripts\\animationinstancing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\aniinstancing\\scripts\\animationinstancing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\aniinstancing\\scripts\\animationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\aniinstancing\\scripts\\animationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\_game\\scripts\\game\\boxing\\ui\\boxingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\game\\boxing\\ui\\boxingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\_game\\scripts\\core\\managers\\poolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\core\\managers\\poolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\_game\\scripts\\game\\match3\\match3levelso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\game\\match3\\match3levelso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\_game\\scripts\\effect\\disable\\disablesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\effect\\disable\\disablesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\_game\\scripts\\game\\boxing\\state\\diestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\game\\boxing\\state\\diestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\_game\\scripts\\game\\boxing\\attack\\effect\\fireeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\game\\boxing\\attack\\effect\\fireeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\_game\\scripts\\game\\boxing\\state\\idleistate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\game\\boxing\\state\\idleistate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\_game\\scripts\\game\\boxing\\state\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\game\\boxing\\state\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\_game\\scripts\\game\\boxing\\attack\\hitbox\\hitbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\game\\boxing\\attack\\hitbox\\hitbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\_game\\scripts\\effect\\disable\\disablebytime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\effect\\disable\\disablebytime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Effect\\Disable\\DisableByDistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Game\\Scripts\\Effect\\Disable\\DisableByDistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\_game\\scripts\\effect\\damagetexteffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\effect\\damagetexteffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\_game\\scripts\\game\\match3\\match3manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\game\\match3\\match3manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\_game\\scripts\\core\\managers\\effectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\core\\managers\\effectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\_game\\scripts\\game\\boxing\\attack\\strategy\\baseattackstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\game\\boxing\\attack\\strategy\\baseattackstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\_game\\scripts\\game\\boxing\\config\\boxingso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\game\\boxing\\config\\boxingso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\_game\\scripts\\game\\match3\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\game\\match3\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\assets\\_game\\scripts\\game\\boxing\\attack\\strategy\\attackso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8897722-6A5E-116C-3691-588A78E3692E}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\game\\boxing\\attack\\strategy\\attackso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Core\\DataManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Game\\Scripts\\Core\\DataManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41004950-0DCF-D04E-DD83-C37886C4776E}|Unity.AssetBundleBrowser.Editor.Tests.csproj|D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\AssetBundles-Browser-master\\Tests\\Editor\\Util\\TestUtil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41004950-0DCF-D04E-DD83-C37886C4776E}|Unity.AssetBundleBrowser.Editor.Tests.csproj|solutionrelative:Assets\\AssetBundles-Browser-master\\Tests\\Editor\\Util\\TestUtil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BoxingManager.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\BoxingManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Game\\Boxing\\BoxingManager.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\BoxingManager.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Game\\Boxing\\BoxingManager.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAuwI0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:15:44.746Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Core\\Managers\\DataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Core\\Managers\\DataManager.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Core\\Managers\\DataManager.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Core\\Managers\\DataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:32:49.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ABModelTests.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\AssetBundles-Browser-master\\Tests\\Editor\\ABModelTests.cs",
+              "RelativeDocumentMoniker": "Assets\\AssetBundles-Browser-master\\Tests\\Editor\\ABModelTests.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\AssetBundles-Browser-master\\Tests\\Editor\\ABModelTests.cs",
+              "RelativeToolTip": "Assets\\AssetBundles-Browser-master\\Tests\\Editor\\ABModelTests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:37:27.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Human.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\Fighter\\Player\\Human.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Game\\Boxing\\Fighter\\Player\\Human.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\Fighter\\Player\\Human.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Game\\Boxing\\Fighter\\Player\\Human.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:05:14.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\Fighter\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Game\\Boxing\\Fighter\\Player\\Player.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\Fighter\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Game\\Boxing\\Fighter\\Player\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:58:40.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\Fighter\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Game\\Boxing\\Fighter\\Enemy\\Enemy.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\Fighter\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Game\\Boxing\\Fighter\\Enemy\\Enemy.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAwEoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:34:37.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fighter.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\Fighter\\Fighter.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Game\\Boxing\\Fighter\\Fighter.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\Fighter\\Fighter.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Game\\Boxing\\Fighter\\Fighter.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwEEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:32:30.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AnimationInstancingMgr.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\AniInstancing\\Scripts\\AnimationInstancingMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\AniInstancing\\Scripts\\AnimationInstancingMgr.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\AniInstancing\\Scripts\\AnimationInstancingMgr.cs",
+              "RelativeToolTip": "Assets\\AniInstancing\\Scripts\\AnimationInstancingMgr.cs",
+              "ViewState": "AgIAAB8CAAAAAAAAAADwvzICAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:13:07.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TouchHandler.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Match3\\TouchHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Game\\Match3\\TouchHandler.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Match3\\TouchHandler.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Game\\Match3\\TouchHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:13:35.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Core\\Managers\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Core\\Managers\\UIManager.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Core\\Managers\\UIManager.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Core\\Managers\\UIManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:24:38.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CameraShake.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Effect\\CameraShake.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Effect\\CameraShake.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Effect\\CameraShake.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Effect\\CameraShake.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T14:26:36.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnimationInstancing.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\AniInstancing\\Scripts\\AnimationInstancing.cs",
+              "RelativeDocumentMoniker": "Assets\\AniInstancing\\Scripts\\AnimationInstancing.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\AniInstancing\\Scripts\\AnimationInstancing.cs",
+              "RelativeToolTip": "Assets\\AniInstancing\\Scripts\\AnimationInstancing.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAADwv7IAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:04:35.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AnimationManager.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\AniInstancing\\Scripts\\AnimationManager.cs",
+              "RelativeDocumentMoniker": "Assets\\AniInstancing\\Scripts\\AnimationManager.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\AniInstancing\\Scripts\\AnimationManager.cs",
+              "RelativeToolTip": "Assets\\AniInstancing\\Scripts\\AnimationManager.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAADwv0cAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:13:40.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TestUtil.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\AssetBundles-Browser-master\\Tests\\Editor\\Util\\TestUtil.cs",
+              "RelativeDocumentMoniker": "Assets\\AssetBundles-Browser-master\\Tests\\Editor\\Util\\TestUtil.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\AssetBundles-Browser-master\\Tests\\Editor\\Util\\TestUtil.cs",
+              "RelativeToolTip": "Assets\\AssetBundles-Browser-master\\Tests\\Editor\\Util\\TestUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:35:07.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BoxingUI.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\UI\\BoxingUI.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Game\\Boxing\\UI\\BoxingUI.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\UI\\BoxingUI.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Game\\Boxing\\UI\\BoxingUI.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T08:33:02.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DisableSystem.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Effect\\Disable\\DisableSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Effect\\Disable\\DisableSystem.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Effect\\Disable\\DisableSystem.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Effect\\Disable\\DisableSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T08:27:04.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PoolManager.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Core\\Managers\\PoolManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Core\\Managers\\PoolManager.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Core\\Managers\\PoolManager.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Core\\Managers\\PoolManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:40:50.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Match3LevelSO.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Match3\\Match3LevelSO.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Game\\Match3\\Match3LevelSO.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Match3\\Match3LevelSO.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Game\\Match3\\Match3LevelSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:04:33.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IdleIState.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\State\\IdleIState.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Game\\Boxing\\State\\IdleIState.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\State\\IdleIState.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Game\\Boxing\\State\\IdleIState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:05:52.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DieState.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\State\\DieState.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Game\\Boxing\\State\\DieState.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\State\\DieState.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Game\\Boxing\\State\\DieState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:12:24.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FireEffect.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\Attack\\Effect\\FireEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Game\\Boxing\\Attack\\Effect\\FireEffect.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\Attack\\Effect\\FireEffect.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Game\\Boxing\\Attack\\Effect\\FireEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:20:00.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AttackState.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\State\\AttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Game\\Boxing\\State\\AttackState.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\State\\AttackState.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Game\\Boxing\\State\\AttackState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:46:52.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Hitbox.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\Attack\\Hitbox\\Hitbox.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Game\\Boxing\\Attack\\Hitbox\\Hitbox.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\Attack\\Hitbox\\Hitbox.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Game\\Boxing\\Attack\\Hitbox\\Hitbox.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAjwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:49:34.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseAttackStrategy.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\Attack\\Strategy\\BaseAttackStrategy.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Game\\Boxing\\Attack\\Strategy\\BaseAttackStrategy.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\Attack\\Strategy\\BaseAttackStrategy.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Game\\Boxing\\Attack\\Strategy\\BaseAttackStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T06:06:28.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DisableByDistance.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Effect\\Disable\\DisableByDistance.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Effect\\Disable\\DisableByDistance.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Effect\\Disable\\DisableByDistance.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Effect\\Disable\\DisableByDistance.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T08:26:45.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DisableByTime.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Effect\\Disable\\DisableByTime.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Effect\\Disable\\DisableByTime.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Effect\\Disable\\DisableByTime.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Effect\\Disable\\DisableByTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T08:27:08.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DamageTextEffect.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Effect\\DamageTextEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Effect\\DamageTextEffect.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Effect\\DamageTextEffect.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Effect\\DamageTextEffect.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:53:46.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EffectManager.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Core\\Managers\\EffectManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Core\\Managers\\EffectManager.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Core\\Managers\\EffectManager.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Core\\Managers\\EffectManager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowB4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:56:27.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Match3Manager.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Match3\\Match3Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Game\\Match3\\Match3Manager.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Match3\\Match3Manager.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Game\\Match3\\Match3Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T06:17:37.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Core\\DataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Core\\DataManager.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Core\\DataManager.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Core\\DataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:35:05.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AttackSO.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\Attack\\Strategy\\AttackSO.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Game\\Boxing\\Attack\\Strategy\\AttackSO.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\Attack\\Strategy\\AttackSO.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Game\\Boxing\\Attack\\Strategy\\AttackSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:47:19.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Match3\\Cell.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Game\\Match3\\Cell.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Match3\\Cell.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Game\\Match3\\Cell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:14:20.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BoxingSO.cs",
+              "DocumentMoniker": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\Config\\BoxingSO.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Game\\Boxing\\Config\\BoxingSO.cs",
+              "ToolTip": "D:\\UNITY\\Out_Sources\\Boxing Game\\Assets\\_Game\\Scripts\\Game\\Boxing\\Config\\BoxingSO.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Game\\Boxing\\Config\\BoxingSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:23:39.393Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 4320c6e6693b38b43a27839af65dbe88, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - bc9d8190b05973e4da7116ea67ae475c: 21300000
+    - bef3b301103e549429dc2337c1f9afc8: -3686916662298370030
+    - 620022d29c4de28498b78bffe44ea230: 21300000
+    - 7d416f83e045d15479f6e0db26c10e52: -1042190706603249634
+    - 86e1f214600bf8b4692024e1829e4d44: 21300000
+    - 5459de759f51e4241b198a2c661df4fe: -8134079328601802399
+    - bd9c82e5f911d0a4d9a2d8edebd9b06a: -8177663741987140228
+    - 7d73676693ef94949911dd72cf0e733d: 6975966144685586710
+    - 2e28ad57d99ce294d9f7c9e9152c49eb: -749763159060129294
+    - 323ac038aa60ca646994e01cc5775fd6: 21300000
+    - 639028887aa68984bad25f874a71d074: -3686916662298370030
+    - 5dd47629e2114ea4ab42c619971533a2: 21300000
+    - 44e9dc29274526e4e9aa36b7fd5bf189: -2176134756909141530
+    - 3e81e57c75e221d47a8b6bc3bd86bb84: 1763640397643153330
+    - b10bfefc42d575146a586d06ddabade6: 21300000
+    - 7ee5294db4e0ad745a9ef54ddfdeb05a: 21300000
+    - c7189c5da2273ee4dac5a50187d15da7: -8865007590316748379
+    - 9ccc05dd0260fc244b3dde444255052e: 21300000
+    - 7bd5c75eaccca024182779c5e4b99f1c: 2454734655996779537
+    - d568619e4db1bc644b4e1504c9c8344a: -3323906911754021385
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: bc9d8190b05973e4da7116ea67ae475c, type: 3}
+  - {fileID: -3686916662298370030, guid: bef3b301103e549429dc2337c1f9afc8, type: 3}
+  - {fileID: 21300000, guid: 620022d29c4de28498b78bffe44ea230, type: 3}
+  - {fileID: -1042190706603249634, guid: 7d416f83e045d15479f6e0db26c10e52, type: 3}
+  - {fileID: 21300000, guid: 86e1f214600bf8b4692024e1829e4d44, type: 3}
+  - {fileID: -8134079328601802399, guid: 5459de759f51e4241b198a2c661df4fe, type: 3}
+  - {fileID: -8177663741987140228, guid: bd9c82e5f911d0a4d9a2d8edebd9b06a, type: 3}
+  - {fileID: 6975966144685586710, guid: 7d73676693ef94949911dd72cf0e733d, type: 3}
+  - {fileID: -749763159060129294, guid: 2e28ad57d99ce294d9f7c9e9152c49eb, type: 3}
+  - {fileID: 21300000, guid: 323ac038aa60ca646994e01cc5775fd6, type: 3}
+  - {fileID: -3686916662298370030, guid: 639028887aa68984bad25f874a71d074, type: 3}
+  - {fileID: 21300000, guid: 5dd47629e2114ea4ab42c619971533a2, type: 3}
+  - {fileID: -2176134756909141530, guid: 44e9dc29274526e4e9aa36b7fd5bf189, type: 3}
+  - {fileID: 1763640397643153330, guid: 3e81e57c75e221d47a8b6bc3bd86bb84, type: 3}
+  - {fileID: 21300000, guid: b10bfefc42d575146a586d06ddabade6, type: 3}
+  - {fileID: 21300000, guid: 7ee5294db4e0ad745a9ef54ddfdeb05a, type: 3}
+  - {fileID: -8865007590316748379, guid: c7189c5da2273ee4dac5a50187d15da7, type: 3}
+  - {fileID: 21300000, guid: 9ccc05dd0260fc244b3dde444255052e, type: 3}
+  - {fileID: 2454734655996779537, guid: 7bd5c75eaccca024182779c5e4b99f1c, type: 3}
+  - {fileID: -3323906911754021385, guid: d568619e4db1bc644b4e1504c9c8344a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Popup01_Basic_White_Bg
+  - icons8-circle-100_0
+  - icons8-heart-100
+  - icons8-undo-52_0
+  - icons8-punch-100 (1)
+  - icons8-exit-90_0
+  - icons8-done-52_0
+  - store_frame_stroke_0
+  - icons8-lock-96_0
+  - icons8-punch-100
+  - icons8-circle-100_0
+  - icons8-fist-96
+  - icons8-clock-96_0
+  - icons8-compress-52_0
+  - Circle (9slice)
+  - btn_green
+  - round_box_0
+  - icons8-human-96
+  - icons8-enlarge-52_0
+  - icons8-back-64_0
+  m_RenderDataMap: {}
+  m_Tag: UI Sprite Atlas
+  m_IsVariant: 0
